@@ -11,9 +11,7 @@
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" width="100"/>
 </div>
 
-<div id="header" align="center">
-  <img src="https://media1.tenor.com/m/KiQ71OnI4Q8AAAAC/pusheen-fast.gif" width="400"/>
-</div>
+
 
 
 
